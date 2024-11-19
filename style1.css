@@ -1,4 +1,3 @@
-/* Styling untuk header, body, dll tetap sama dari kode sebelumnya */
 
 /* Tombol Back */
 .back-btn {
@@ -16,7 +15,6 @@
     background-color: #ff3366;
 }
 
-/* Styling untuk ul */
 ul {
     list-style-type: square;
     margin: 10px 0;
@@ -27,7 +25,6 @@ ul li {
     margin-bottom: 8px;
 }
 
-/* Styling untuk galeri mockup */
 .mockup-gallery {
     display: flex;
     flex-wrap: wrap;
@@ -49,9 +46,6 @@ ul li {
     transform: scale(1.05);
 }
 
-/* Footer styling tetap sama */
-
-/* Background warna pink untuk seluruh halaman */
 body {
     background-color: #ffe6f2; /* Soft pink */
     font-family: 'Arial', sans-serif;
@@ -60,7 +54,6 @@ body {
     color: #333;
 }
 
-/* Background warna pink yang lebih tegas di bagian header dan footer */
 header {
     background-color: #ffb3d9; /* Medium pink */
     padding: 20px;
